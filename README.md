@@ -90,3 +90,8 @@ churn_prediction/
 ├── requirements.txt
 └── README.md
 ```
+# Results:
+
+<img width="830" height="911" alt="image" src="https://github.com/user-attachments/assets/d7139141-2f2c-4626-bc80-3506e7fb690a" />
+
+<img width="702" height="373" alt="image" src="https://github.com/user-attachments/assets/5610bd98-e676-41f7-9843-7753c66947b9" />
